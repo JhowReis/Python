@@ -1,3 +1,6 @@
+# Look for the treasure ... good luck and don't forget that this can be dangerous
+
+
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 left_right = str(input("You're across road.\nWhere do you want to go. Left or Right [L/R]")).upper()
@@ -17,3 +20,7 @@ else:
             print("Game Over")
         else:
             print("Congratulations. You win!")
+
+
+#@JonathanReis
+#jonathan.linkedin2019@gmail.com
